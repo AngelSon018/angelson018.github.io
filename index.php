@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Generate QR Codes</title>
     <style>
@@ -114,4 +115,10 @@
     </div>
 
     </body>
+    <footer>
+  Created by: angelson018
+  <br>
+  <a href="https://www.facebook.com/proto.liveblue003/"><i class="fab fa-facebook-f"></i> Facebook</a> | 
+  <a href="https://www.linkedin.com/in/marksison018/"><i class="fab fa-linkedin-in"></i> LinkedIn</a>
+</footer>
 </html>
